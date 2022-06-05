@@ -844,6 +844,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
     libfastcvopt \
     libthermalclient \
+    QualcommVoiceActivation \
     CneApp \
     IWlanService \
     SoterService \
